@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\bin\Debug\net6.0\ConsoleReadLine.exe
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\bin\Debug\net6.0\ConsoleReadLine.deps.json
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\bin\Debug\net6.0\ConsoleReadLine.runtimeconfig.json
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\bin\Debug\net6.0\ConsoleReadLine.dll
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\bin\Debug\net6.0\ConsoleReadLine.pdb
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.AssemblyInfo.cs
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.dll
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\refint\ConsoleReadLine.dll
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.pdb
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ConsoleReadLine.genruntimeconfig.cache
+C:\c#\Cshopedu\006890-master\006890-master\DotNet\ClassDiagramDemo\ConsoleReadLine\obj\Debug\net6.0\ref\ConsoleReadLine.dll
