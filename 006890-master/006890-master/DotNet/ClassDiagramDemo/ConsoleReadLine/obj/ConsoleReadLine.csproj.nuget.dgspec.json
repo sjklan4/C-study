@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\Cshopedu\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj": {}
+    "C:\\Cshop\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj": {}
   },
   "projects": {
-    "C:\\c#\\Cshopedu\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj": {
+    "C:\\Cshop\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\Cshopedu\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj",
+        "projectUniqueName": "C:\\Cshop\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj",
         "projectName": "ConsoleReadLine",
-        "projectPath": "C:\\c#\\Cshopedu\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj",
-        "packagesPath": "C:\\Users\\박상준\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\Cshopedu\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\obj\\",
+        "projectPath": "C:\\Cshop\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\ConsoleReadLine.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Cshop\\006890-master\\006890-master\\DotNet\\ClassDiagramDemo\\ConsoleReadLine\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\박상준\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,2 +1,4 @@
 C:\c#\Csstudy\006890-master\006890-master\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
 C:\c#\Csstudy\006890-master\006890-master\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
+C:\Cshop\006890-master\006890-master\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
+C:\Cshop\006890-master\006890-master\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
