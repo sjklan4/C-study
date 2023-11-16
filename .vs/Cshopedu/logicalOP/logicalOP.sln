@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicalOP", "logicalOP.csproj", "{AB1EDFCD-6928-416E-BCFA-8E13126E3EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1EDFCD-6928-416E-BCFA-8E13126E3EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1EDFCD-6928-416E-BCFA-8E13126E3EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1EDFCD-6928-416E-BCFA-8E13126E3EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1EDFCD-6928-416E-BCFA-8E13126E3EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9FBFB62-AF05-463F-8959-F5C3475E52E2}
+	EndGlobalSection
+EndGlobal

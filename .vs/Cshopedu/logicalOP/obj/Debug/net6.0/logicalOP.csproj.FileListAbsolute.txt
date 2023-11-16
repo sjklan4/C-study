@@ -1,0 +1,15 @@
+C:\Cshop\.vs\Cshopedu\logicalOP\bin\Debug\net6.0\logicalOP.exe
+C:\Cshop\.vs\Cshopedu\logicalOP\bin\Debug\net6.0\logicalOP.deps.json
+C:\Cshop\.vs\Cshopedu\logicalOP\bin\Debug\net6.0\logicalOP.runtimeconfig.json
+C:\Cshop\.vs\Cshopedu\logicalOP\bin\Debug\net6.0\logicalOP.dll
+C:\Cshop\.vs\Cshopedu\logicalOP\bin\Debug\net6.0\logicalOP.pdb
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.AssemblyInfoInputs.cache
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.AssemblyInfo.cs
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.csproj.CoreCompileInputs.cache
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.sourcelink.json
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.dll
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\refint\logicalOP.dll
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.pdb
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\logicalOP.genruntimeconfig.cache
+C:\Cshop\.vs\Cshopedu\logicalOP\obj\Debug\net6.0\ref\logicalOP.dll
