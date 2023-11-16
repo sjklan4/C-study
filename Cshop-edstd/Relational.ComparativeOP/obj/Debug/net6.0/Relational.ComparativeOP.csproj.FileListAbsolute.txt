@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\bin\Debug\net6.0\Relational.ComparativeOP.exe
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\bin\Debug\net6.0\Relational.ComparativeOP.deps.json
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\bin\Debug\net6.0\Relational.ComparativeOP.runtimeconfig.json
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\bin\Debug\net6.0\Relational.ComparativeOP.dll
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\bin\Debug\net6.0\Relational.ComparativeOP.pdb
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.dll
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\refint\Relational.ComparativeOP.dll
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.pdb
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\Relational.ComparativeOP.genruntimeconfig.cache
+C:\c#\Cshopedu\Cshop-edstd\Relational.ComparativeOP\obj\Debug\net6.0\ref\Relational.ComparativeOP.dll
