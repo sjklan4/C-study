@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\bin\Debug\net6.0\bitoperation.exe
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\bin\Debug\net6.0\bitoperation.deps.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\bin\Debug\net6.0\bitoperation.runtimeconfig.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\bin\Debug\net6.0\bitoperation.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\bin\Debug\net6.0\bitoperation.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\refint\bitoperation.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\bitoperation.genruntimeconfig.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\bitoperation\obj\Debug\net6.0\ref\bitoperation.dll
