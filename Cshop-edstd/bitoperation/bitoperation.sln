@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitoperation", "bitoperation\bitoperation.csproj", "{8E9881CB-4378-4381-BF94-DCA4E59041F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitoperation", "bitoperation\bitoperation.csproj", "{8E9881CB-4378-4381-BF94-DCA4E59041F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shiftLeft", "shiftLeft\shiftLeft.csproj", "{87048B84-2E12-49CD-AC21-A00120F232A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shiftLeft", "shiftLeft\shiftLeft.csproj", "{87048B84-2E12-49CD-AC21-A00120F232A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelseforCRT", "ifelseforCRT\ifelseforCRT.csproj", "{21A97AF0-2F70-4F81-AE49-1B895DEF5511}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{87048B84-2E12-49CD-AC21-A00120F232A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87048B84-2E12-49CD-AC21-A00120F232A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87048B84-2E12-49CD-AC21-A00120F232A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

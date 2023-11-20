@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\bin\Debug\net6.0\ifelseforCRT.exe
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\bin\Debug\net6.0\ifelseforCRT.deps.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\bin\Debug\net6.0\ifelseforCRT.runtimeconfig.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\bin\Debug\net6.0\ifelseforCRT.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\bin\Debug\net6.0\ifelseforCRT.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\refint\ifelseforCRT.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ifelseforCRT.genruntimeconfig.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ifelseforCRT\obj\Debug\net6.0\ref\ifelseforCRT.dll

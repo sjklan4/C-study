@@ -1,0 +1,4 @@
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\shiftLeft\obj\Debug\net6.0\shiftLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\shiftLeft\obj\Debug\net6.0\shiftLeft.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\shiftLeft\obj\Debug\net6.0\shiftLeft.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\shiftLeft\obj\Debug\net6.0\shiftLeft.csproj.CoreCompileInputs.cache
