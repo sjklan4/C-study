@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\bin\Debug\net6.0\ForContinue.exe
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\bin\Debug\net6.0\ForContinue.deps.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\bin\Debug\net6.0\ForContinue.runtimeconfig.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\bin\Debug\net6.0\ForContinue.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\bin\Debug\net6.0\ForContinue.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\refint\ForContinue.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ForContinue.genruntimeconfig.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\ForContinue\obj\Debug\net6.0\ref\ForContinue.dll

@@ -1,0 +1,14 @@
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\bin\Debug\net6.0\whileOp.exe
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\bin\Debug\net6.0\whileOp.deps.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\bin\Debug\net6.0\whileOp.runtimeconfig.json
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\bin\Debug\net6.0\whileOp.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\bin\Debug\net6.0\whileOp.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.AssemblyInfoInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.AssemblyInfo.cs
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.csproj.CoreCompileInputs.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\refint\whileOp.dll
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.pdb
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\whileOp.genruntimeconfig.cache
+C:\c#\Cshopedu\Cshop-edstd\bitoperation\whileOp\obj\Debug\net6.0\ref\whileOp.dll

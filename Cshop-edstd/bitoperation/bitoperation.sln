@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitoperation", "bitoperatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shiftLeft", "shiftLeft\shiftLeft.csproj", "{87048B84-2E12-49CD-AC21-A00120F232A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelseforCRT", "ifelseforCRT\ifelseforCRT.csproj", "{21A97AF0-2F70-4F81-AE49-1B895DEF5511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifelseforCRT", "ifelseforCRT\ifelseforCRT.csproj", "{21A97AF0-2F70-4F81-AE49-1B895DEF5511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForContinue", "ForContinue\ForContinue.csproj", "{709457A4-5C54-4E4A-BFBB-ACD9BE6617A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileOp", "whileOp\whileOp.csproj", "{7760B79C-8A11-4EDB-A49C-B9C6A39F250B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A97AF0-2F70-4F81-AE49-1B895DEF5511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709457A4-5C54-4E4A-BFBB-ACD9BE6617A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709457A4-5C54-4E4A-BFBB-ACD9BE6617A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709457A4-5C54-4E4A-BFBB-ACD9BE6617A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709457A4-5C54-4E4A-BFBB-ACD9BE6617A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7760B79C-8A11-4EDB-A49C-B9C6A39F250B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7760B79C-8A11-4EDB-A49C-B9C6A39F250B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7760B79C-8A11-4EDB-A49C-B9C6A39F250B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7760B79C-8A11-4EDB-A49C-B9C6A39F250B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
