@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = logicalOP
-build_property.ProjectDir = C:\Cshop\.vs\Cshopedu\logicalOP\
+build_property.ProjectDir = C:\Cshop\Cshop_edu\.vs\Cshopedu\logicalOP\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

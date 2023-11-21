@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cshop\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj": {}
+    "C:\\Cshop\\Cshop_edu\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj": {}
   },
   "projects": {
-    "C:\\Cshop\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj": {
+    "C:\\Cshop\\Cshop_edu\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cshop\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj",
+        "projectUniqueName": "C:\\Cshop\\Cshop_edu\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj",
         "projectName": "logicalOP",
-        "projectPath": "C:\\Cshop\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj",
+        "projectPath": "C:\\Cshop\\Cshop_edu\\.vs\\Cshopedu\\logicalOP\\logicalOP.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Cshop\\.vs\\Cshopedu\\logicalOP\\obj\\",
+        "outputPath": "C:\\Cshop\\Cshop_edu\\.vs\\Cshopedu\\logicalOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
